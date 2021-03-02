@@ -1,1 +1,1 @@
-"username_test" ['6']
+"username_test" []
